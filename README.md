@@ -1,1 +1,2 @@
-# jupyterRepo
+https://nbviewer.org/github/shravan1130/jupyterRepo/blob/main/Copy_of_Python_Web_Scraping_project_ipynb%20%281%29.ipynb
+TO VIEW THE NOTEBOOK THE LIMK HAS BEEN PASTED ABOVE COPY AND PASTE THE LINK IN YOUR BROWSER TO VIEW CODE FOR VARIOUS WEB SCRAPING VISUALIZATIONS AND METHODS.
